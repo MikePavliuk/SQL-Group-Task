@@ -14,6 +14,6 @@ During the 4th semester at the university I had a subject called "Databases". At
 2. Create queries (at least 40) that include aggregate functions, columns renaming, data grouping, tables merging, data updating and deleting.
 3. The results of the work should be presented in the form of a report.
 ## Usage and contributing
-ER-diagram is [here](https://drive.google.com/file/d/12EhidmCKeefwBjqc7CAwBw7z0ZN5nqNd/view?usp=sharing). In fact, this repo should be read-only, but pull requests are welcome. For major changes or occurring problems, please open an issue first to discuss what problems or suggestions you have.
+The ER-diagram is available [here](https://drive.google.com/file/d/12EhidmCKeefwBjqc7CAwBw7z0ZN5nqNd/view?usp=sharing). In fact, this repo should be read-only, but pull requests are welcome. For major changes or occurring problems, please open an issue first to discuss what problems or suggestions you have.
 ## P.S.
 All occurring problems were sorted out together with Mykhailo and with the small help of our supervisor.
